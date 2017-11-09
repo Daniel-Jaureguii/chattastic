@@ -1,5 +1,5 @@
 {
-  "name": "socket-chat-example",
+  "name": "Black Market Chat",
   "version": "0.0.1",
   "description": "my first socket.io app",
   "dependencies": {
@@ -11,8 +11,8 @@
     "heroku"
   ],
   "author": "J and the three Hs",
-  "license": "CSUMB"
-},
-"engines":{
-  "node":"4.1.1"
+  "license": "CSUMB",
+  "engines":{
+    "node":"4.1.1"
+  }
 }
